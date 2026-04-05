@@ -6,6 +6,7 @@ This repository contains the supplementary dataset and survey instruments used i
 ## Repository Contents
 * `runway_data.csv`: The raw, anonymized dataset containing the demographic information and evaluation scores for all 150 participants.
 * `README.md`: This file, containing the project description and the exact phrasing of the survey instruments used.
+* `analysis_script.py`: The Python script used to process the raw dataset. This script utilizes `pandas`, `matplotlib`, and `numpy` to automatically calculate the Mean and Standard Deviation for all NASA-TLX and SWAT metrics across the three task groups. It also programmatically generates the grouped bar charts (Figures 2 and 3) presented in the final manuscript.
 
 ## Methodology & Tasks
 Participants were divided evenly to perform one of three tasks on the Runway ML platform:
