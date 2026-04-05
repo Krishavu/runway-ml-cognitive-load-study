@@ -4,7 +4,7 @@
 This repository contains the supplementary dataset and survey instruments used in the research paper *"Minimizing Cognitive Load: Optimizing UI for Multimodal Generative AI Applications."* The study investigates the cognitive workload experienced by users when interacting with complex multimodal generative AI tools, specifically using **Runway ML** as the primary testing platform. The data reflects the mental strain, time pressure, and frustration levels of 150 participants across three distinct tasks of varying complexity.
 
 ## Repository Contents
-* `runway_ml_full_150_results.csv`: The raw, anonymized dataset containing the demographic information and evaluation scores for all 150 participants.
+* `runway_data.csv`: The raw, anonymized dataset containing the demographic information and evaluation scores for all 150 participants.
 * `README.md`: This file, containing the project description and the exact phrasing of the survey instruments used.
 
 ## Methodology & Tasks
